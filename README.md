@@ -10,7 +10,7 @@ I am a **Mechatronics & ICT Engineer** specializing in **Simulation, Visualizati
 
 ### 🎓 Recent Projects
 * **[Master Thesis](https://github.com/ZeshanMubashir/Master-Thesis):** Solar PV Anomaly Detection using Deep Learning (ViT, DeiT, ConvNeXt).
-* **[Web-based HMI](https://github.com/ZeshanMubashir/Master-Thesis):** Process Control System integration using CDP Studio and Qt.
+* **[Web-based HMI](https://github.com/ZeshanMubashir/Spec.Project-UI):** Process Control System integration using CDP Studio and Qt.
 * **Digital Twin:** Simulation of an Autonomous Ship navigating via physical modeling and state estimation.
 
 ### 💼 Professional Background
