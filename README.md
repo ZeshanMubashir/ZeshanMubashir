@@ -15,8 +15,7 @@ I am a **Mechatronics & ICT Engineer** specializing in **Simulation, Visualizati
 
 ### 💼 Professional Background
 * **M.Sc. in ICT** | NTNU Ålesund, Norway
-* **Ex-Assistant Manager (PPC):** 8+ years of experience in production planning, plant automation (SACMI, BMR, OMRON), and industrial commissioning.
-
+* **B.Sc. in Mechatronics & Control Engineering** | UET Lahore, Pakistan
 ---
 
 ### 📫 Connect with me:
