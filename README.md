@@ -13,7 +13,7 @@ I am a **Mechatronics & ICT Engineer** specializing in **Simulation, Visualizati
 * **[Web-based HMI](https://github.com/ZeshanMubashir/Spec.Project-UI):** Process Control System integration using CDP Studio and Qt.
 * **Digital Twin:** Simulation of an Autonomous Ship navigating via physical modeling and state estimation.
 
-### 💼 Professional Background
+### 💼 Educational Background
 * **M.Sc. in ICT** | NTNU Ålesund, Norway
 * **B.Sc. in Mechatronics & Control Engineering** | UET Lahore, Pakistan
 ---
