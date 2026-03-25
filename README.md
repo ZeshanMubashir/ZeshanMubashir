@@ -14,7 +14,7 @@ I am a **Mechatronics & ICT Engineer** specializing in **Simulation, Visualizati
 * **Digital Twin:** Simulation of an Autonomous Ship navigating via physical modeling and state estimation.
 
 ### 💼 Educational Background
-* **M.Sc. in ICT** | NTNU Ålesund, Norway
+* **M.Sc. in ICT- Simulation & Visualization** | NTNU Ålesund, Norway
 * **B.Sc. in Mechatronics & Control Engineering** | UET Lahore, Pakistan
 ---
 
