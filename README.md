@@ -8,11 +8,6 @@ I am a **Mechatronics & ICT Engineer** specializing in **Simulation, Visualizati
 * **3D & Visualization:** Unity 3D, Blender, OpenGL
 * **AI/ML:** Computer Vision, Digital Twin Technology, Deep Learning for Industrial Inspection
 
-### 🎓 Recent Projects
-* **[Master Thesis](https://github.com/ZeshanMubashir/Master-Thesis):** Solar PV Anomaly Detection using Deep Learning (ViT, DeiT, ConvNeXt).
-* **[Web-based HMI](https://github.com/ZeshanMubashir/Spec.Project-UI):** Process Control System integration using CDP Studio and Qt.
-* **Digital Twin:** Simulation of an Autonomous Ship navigating via physical modeling and state estimation.
-
 ### 💼 Educational Background
 * **M.Sc. in ICT- Simulation & Visualization** | NTNU Ålesund, Norway
 * **B.Sc. in Mechatronics & Control Engineering** | UET Lahore, Pakistan
