@@ -17,4 +17,4 @@ I am a **Mechatronics & ICT Engineer** specializing in **Simulation, Visualizati
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeshanmubshir)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zeshanmubashir@gmail.com)
 
-📍 Based in **Ålesund, Norway**
+📍 Based in **Norway/ Pakistan.**
