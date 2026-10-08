@@ -2,7 +2,7 @@
 
 # Hi, I'm Zeshan Mubshir 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&width=620&center=true&lines=Simulation+%26+Visualization+Engineer,Digital+Twins+%26+Industrial+Automation,Deep+Learning+%26+Computer+Vision" alt="Zeshan Mubshir" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&width=620&center=true&lines=Simulation+%26+Visualization+engineer" alt="Zeshan Mubshir" />
 
 **Mechatronics & ICT Engineer** bridging industrial automation (Production / PLC)
 with modern software engineering (C++, Python, AI).
